@@ -1,0 +1,15 @@
+{
+  "name": "frontend-drug-parser",
+  "version": "1.0.0",
+  "homepage": "https://avdeevdenis.github.io/frontend-drug-parser/",
+  "description": "Предельно допустимые цены на лекарства",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avdeev Denis",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
